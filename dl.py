@@ -15,6 +15,7 @@ from keras.models import Sequential
 from keras.layers.core import Dense, Dropout
 import numpy as np
 import os
+#修改测试
 
 
 def auc(y_true, y_pred):
